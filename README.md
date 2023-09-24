@@ -4,11 +4,32 @@ This repository serves as a public data set for shayari from notable Urdu Ghazal
 ## Source
 This dataset has been scraped from the most reliable platform for Urdu Poetry, [Rekhta](rekhta.org). Rekhta is an Indian literary website devoted to promoting and encouraging Urdu poetry and prose in the subcontinent.
 
-## Classes and Count
+## Figures
 A corpus of 17,609 couplets was collected from 15 different notable Urdu poets. These couplets (consisting of 2 misras concatenated together).
 
 ## Acquisition
 The data acquisition process from Rekhta involved a blend of manual and automated techniques. We extracted the links to the ghazals of each poet, and visited those links using an automated program. Regular expressions and string processing to extract the couplets of the ghazals from the visited pages, resulting in a dataset of Urdu couplets from various poets. 
+
+## Characterization
+Classwise count of the selected poets is shown below.
+
+| extbf{No} | {Poet/Shayar}      | \textbf{Couplet Count} |
+|-----------|--------------------|------------------------|
+| 1         | Ahmed Faraz        | 926                    |
+| 2         | Zafar Iqbal        | 1104                   |
+| 3         | Qateel Shifai      | 780                    |
+| 4         | Parveen Shakir     | 593                    |
+| 5         | Nida Fazli         | 474                    |
+| 6         | Faiz Ahmad Faiz    | 504                    |
+| 7         | Jaun Elia          | 1470                   |
+| 8         | Muneer Niyazi      | 523                    |
+| 9         | Allama Iqbal       | 797                    |
+| 10        | Riyaz Khairabadi   | 1700                   |
+| 11        | Haider Ali Atish   | 1330                   |
+| 12        | Siraj Aurangabadi  | 860                    |
+| 13        | Mir Taqi Mir       | 2971                   |
+| 14        | Nazeer Akbar Abadi | 1643                   |
+| 15        | Mirza Ghalib       | 1934                   |
 
 ## Poet Selection
 These 15 poets were selected for the following reasons:
