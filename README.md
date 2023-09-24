@@ -13,7 +13,7 @@ The data acquisition process from Rekhta involved a blend of manual and automate
 ## Characterization
 Classwise count of the selected poets is shown below.
 
-| extbf{No} | {Poet/Shayar}      | \textbf{Couplet Count} |
+| No | Poet/Shayar      | Couplet Count |
 |-----------|--------------------|------------------------|
 | 1         | Ahmed Faraz        | 926                    |
 | 2         | Zafar Iqbal        | 1104                   |
